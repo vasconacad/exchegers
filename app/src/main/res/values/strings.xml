@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Exchengers</string>
+    <string name="app_name">Intercambistas</string>
+    <string name="Activity_cadastro_descrição">Descrição</string>
+    <string name="Activity_cadastro_horario">Horario</string>
+    <string name="Activity_cadastro_frequêcia">Frequencia</string>
+    <string name="Activity_cadastro_salvar">Salvar</string>
+    <string-array name="Activity_cadastro_frequencia_lista">
+        <item>Diaramente</item>
+        <item>Hoje</item>
+        <item>Fins de Semana</item>
+        <item>Segunda a Sexta</item>
+    </string-array>
+    <string name="Activity_cadastro_dispositivo">Dispositivo</string>
+    <string name=""
 </resources>
