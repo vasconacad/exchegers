@@ -1,4 +1,4 @@
-package com.exchengers;
+package com.example.intercambistas;
 
 import org.junit.Test;
 
