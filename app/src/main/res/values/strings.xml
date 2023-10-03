@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Exchengers</string>
+    <string name="app_name">Intercambistas</string>
+    <string name="activity_tela_cadastro_usuario">Insira um nome de usuário:</string>
+    <string name="activity_tela_cadastro_senha">Cadastre sua senha:</string>
+    <string name="activity_tela_cadastro_email">Digite seu e-mail::</string>
+    <string name="activity_tela_cadastro_curso">Escolha seu curso:</string>
+    <string-array name="cursos">
+        <item>Ciência da computação</item>
+        <item>Medicina</item>
+        <item>Odontologia</item>
+        <item>Educação Física</item>
+        <item>Design</item>
+    </string-array>
+    
 </resources>
